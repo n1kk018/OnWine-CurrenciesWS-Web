@@ -10,12 +10,6 @@
     </properties>
   <dependencies>
     <dependency>
-        <groupId>${project.groupId}</groupId>
-        <artifactId>OnWine-CurrenciesWS-Biz</artifactId>
-        <version>${project.version}</version>
-        <scope>provided</scope>
-    </dependency>
-    <dependency>
         <groupId>org.jboss.resteasy</groupId>
         <artifactId>resteasy-jaxrs</artifactId>
         <version>3.0.19.Final</version>
